@@ -55,8 +55,6 @@ export default function Topbar() {
         </IconButton>
 
       </Box>
-
-      <IconButton />
     </Box>
   );
 }
